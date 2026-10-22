@@ -1,6 +1,6 @@
 # LeetCode Practice
 
-This repository contains my solutions to coding interview problems from platforms such as LeetCode and NeetCode. I practise regularly to strengthen my problem-solving skills and my understanding of data structures and algorithms, focusing on recognising the underlying pattern behind each problem rather than memorising answers. I mainly write my solutions in Python, but I sometimes use other languages such as JavaScript and Java.
+This repository contains my solutions to coding interview problems from platforms such as LeetCode and NeetCode. I practice regularly to strengthen my problem-solving skills and my understanding of data structures and algorithms, focusing on recognising the underlying pattern behind each problem rather than memorising answers. I mainly write my solutions in Python
 
 ## Data Structures Covered
 
