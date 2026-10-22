@@ -1,6 +1,6 @@
-# NeetCode 150 Practice
+# LeetCode Practice
 
-This repository contains my solutions to the NeetCode 150, a curated set of problems covering the key patterns that come up in coding interviews. I'm working through it topic by topic to strengthen my problem-solving skills and my understanding of data structures and algorithms, with the focus on recognising the underlying pattern rather than memorising answers. My solutions are written in Python, and they sync here automatically from [NeetCode.io](https://neetcode.io).
+This repository contains my solutions to coding interview problems from platforms such as LeetCode and NeetCode. I practise regularly to strengthen my problem-solving skills and my understanding of data structures and algorithms, focusing on recognising the underlying pattern behind each problem rather than memorising answers. I mainly write my solutions in Python, but I sometimes use other languages such as JavaScript and Java.
 
 ## Data Structures Covered
 
@@ -21,6 +21,7 @@ This repository contains my solutions to the NeetCode 150, a curated set of prob
 - Sliding Window
 - Prefix Sums
 - Binary Search
+- Sorting
 - Recursion
 - Backtracking
 - Breadth First Search (Trees, Graphs, Matrices)
@@ -34,13 +35,3 @@ This repository contains my solutions to the NeetCode 150, a curated set of prob
 - 1-D & 2-D Dynamic Programming
 - Bit Manipulation
 - Math & Geometry
-
-## Structure
-
-```
-Data Structures & Algorithms/
-  <problem-name>/
-    submission-<n>.py
-```
-
-Each problem has its own folder. Every attempt is saved as a numbered submission, so you can see how a solution improved over time.
